@@ -1,0 +1,60 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    margin: 0 auto;
+    background-color: #6D8C9E;
+}
+
+table, th, td {
+    border: none;
+    margin: 20px 0 0;
+}
+
+table {
+    background-color: #A6553B;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    width: 100px;
+    margin: 0;
+}
+
+tr:nth-child(even) {
+    background-color: #CC7F67;
+}
+
+th {
+    background-color: #80331B;
+}
+
+h1 {
+    text-align: right;
+    background-color: #2A526A;
+    margin: 0;
+    padding: 50px;
+    font-size: 50px;
+    color: #CCB167;
+}
+
+#totalExpenses {
+    padding: 15px;
+    margin: 0;
+    width: 750px;
+    background-color: #80331B;
+    font-weight: bold;
+}
+
+#addEmployeeInputs {
+    margin: 20px;
+}
+
+#contents {
+    max-width: 780px;
+    margin: 0 auto;
+}
