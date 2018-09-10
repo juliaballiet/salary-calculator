@@ -73,7 +73,7 @@ function deleteEmployee() {
     $('#expenses').html('$' + Math.round(100 * totalMonthlyExpenses)/100)
 
     if (totalMonthlyExpenses <= 20000) {
-        $('#totalExpenses').css('background', 'white')
+        $('#totalExpenses').css('background', '#80331B')
     }
 
     $(this).parent().parent().remove();
