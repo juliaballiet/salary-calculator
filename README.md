@@ -9,11 +9,11 @@ Keeps track of employee salaries and ensures they do not exceed $20,000/month.
 - HTML
 - CSS
 
-##Screen Shot
+## Screen Shot
 
 ![Screen Shot](images/screen_shot.png)
 
-###Completed Features
+### Completed Features
 
 - [x] Add employees
 - [x] Delete employees
